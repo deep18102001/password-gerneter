@@ -1,0 +1,21 @@
+.char{
+    width: 100%;
+    height: 200px;
+    background: #000;
+    text-align: center;
+    color: white;
+    
+
+}
+.h1 input{
+    color: black;
+    /* border-radius: 50px; */
+    height: 30px;
+    width: 300px;
+}
+.h1 button{
+    /* color: white; */
+    /* border-radius: 50px; */
+    height: 30px;
+    /* width: 300px; */
+}
